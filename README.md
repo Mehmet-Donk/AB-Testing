@@ -21,3 +21,16 @@ Click: Number of clicks on the displayed ad
 Purchase: The number of products purchased after the ads clicked
 
 Earning: Earnings after purchased products
+
+# Analysis of Results
+
+
+Firstly, normality test was applied to both groups. Since it was observed that the normal distribution was observed in both groups, the second assumption was made and the homogeneity of the variance was examined. Since the variances are homogeneous
+"Independent Two-Sample T-Test" was applied. As a result of the application, it was observed that the p-value was greater than 0.05.
+and H0 hypothesis could not be rejected.
+
+
+Since there is no significant difference in terms of purchase, the customer can choose one of the two methods, but here are the other statistics.
+differences will also matter. The differences in Click, Engagement, Earnings and Conversion Rates are evaluated and which
+method can be found to be more profitable. Which method is clicked, especially since Facebook is paid per click?
+It can be determined that the rate is lower and the CTR (Click Through Rate) rate can be checked.
