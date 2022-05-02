@@ -13,3 +13,11 @@ He wants to do an A/B test to see if it returns. A/B testing continues for 1 mon
 # Dataset Story
 What users see and click on in this dataset, which includes a company's website information
 In addition to information such as the number of advertisements, there are earnings information from here. There are two separate data sets, the Control and Test group. These datasets are on separate sheets of the ab_testing.xlsx excel. Maximum Bidding was applied to the control group and Average Bidding was applied to the test group..
+
+Impression: Ad impressions
+
+Click: Number of clicks on the displayed ad
+
+Purchase: The number of products purchased after the ads clicked
+
+Earning: Earnings after purchased products
