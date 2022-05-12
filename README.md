@@ -1,4 +1,4 @@
-# AB-Testing
+# AB Testing
 
 What is AB testing known as A/B testing? A/B testing is a methodology that reveals the user experience. With this methodology, it is tried to measure the interactions of users over two variables. It measures 2 different variables with systematic and theoretical analysis, leaving other factors the same. It is quite common to use these statistical values to measure advertising performance.
 
